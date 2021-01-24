@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'thin', '~> 1.5.0'
 
 # Project requirements
-gem 'rake', '~> 10.0.2'
+gem 'rake', '~> 13.0.3'
 gem 'sinatra-flash', '~> 0.3.0', :require => 'sinatra/flash'
 gem 'padrino-sprockets', :require => ['sprockets','padrino/sprockets'], :git => 'git://github.com/nightsailer/padrino-sprockets.git'
 
